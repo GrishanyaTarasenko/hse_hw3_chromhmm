@@ -14,7 +14,7 @@ Cсылка на гугл коллаб: https://colab.research.google.com/drive/
 | H3K9me3 | wgEncodeBroadHistoneHmecH3k09me3AlnRep1.bam
 | Control | wgEncodeBroadHistoneHmecControlStdAlnRep1.bam 
 # Images CromHMM
-| Emissions | Overlap | |
- :---: |
-| ![emissions_10](https://user-images.githubusercontent.com/65420132/160288345-52c7507a-cafa-473e-87f6-1f28c758f61e.png) | ![HMEC_10_overlap](https://user-images.githubusercontent.com/65420132/160288414-e111bada-a349-4ad8-857d-1b29bd621b2f.png)
- | ![transitions_10](https://user-images.githubusercontent.com/65420132/160290869-08cf1daa-008c-491b-99b0-24a293aa0edc.png) | 
+| Emissions | Overlap | Transitions
+| :---: | :---: |
+| ![emissions_10](https://user-images.githubusercontent.com/93290073/160481206-594b263d-89d5-441b-ad75-2e1366de8bfa.png) | ![Hmec_10_overlap](https://user-images.githubusercontent.com/93290073/160481278-ef614f75-6d04-4287-a8d9-c9d75700faec.png) | ![transitions_10](https://user-images.githubusercontent.com/93290073/160481364-29a5ba0c-bc98-49d4-b099-3a5d30e95584.png)
+ | 
