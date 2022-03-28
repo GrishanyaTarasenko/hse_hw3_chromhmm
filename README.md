@@ -15,6 +15,6 @@ Cсылка на гугл коллаб: https://colab.research.google.com/drive/
 | Control | wgEncodeBroadHistoneHmecControlStdAlnRep1.bam 
 # Images CromHMM
 | Emissions | Overlap | Transitions
-| :---: | :---: |
+| :---: | :---: | :---: |
 | ![emissions_10](https://user-images.githubusercontent.com/93290073/160481206-594b263d-89d5-441b-ad75-2e1366de8bfa.png) | ![Hmec_10_overlap](https://user-images.githubusercontent.com/93290073/160481278-ef614f75-6d04-4287-a8d9-c9d75700faec.png) | ![transitions_10](https://user-images.githubusercontent.com/93290073/160481364-29a5ba0c-bc98-49d4-b099-3a5d30e95584.png)
  | 
