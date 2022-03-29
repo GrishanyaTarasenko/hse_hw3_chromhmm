@@ -1,5 +1,5 @@
 # hse_hw3_chromhmm
-Cсылка на гугл коллаб: https://colab.research.google.com/drive/1Gw2pc_mK4RLJWuHf46GcZ5_wqWBM4rZq#scrollTo=vaHDAE27xDLx
+Cсылка на гугл коллаб: https://colab.research.google.com/drive/1lAe1l4zzo1H3K-_ko49pGTgK_b5uLTu5
 | Гистоновая метка | файл 
 | :---: | :---: |
 | H2AZ | wgEncodeBroadHistoneHmecH2azAlnRep1.bam 
